@@ -1,16 +1,21 @@
 # Sisila-Senevirathane-Prortolio
 Sample - This shows the projects created by me
 
-# Portfolio Title
+# About Me
+I am a student of EEE
 
-## Section 1
+## Skills
 
-### Subsection
+### Technical
+*Phython
+*GitHub
 
-### Subsection
+### Other
+*Public Speaking
+*Written Communication
 
-## Section 2
+## Projects
 
-### Subsection
+### Smart thermal and Energy management System.
 
-### Subsection
+### Student Registration System
